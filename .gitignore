@@ -1,0 +1,13 @@
+# Maven #
+target/
+
+# IDEA #
+.idea/
+*.iml
+
+# EClipse #
+.settings/
+.metadata/
+.classpath
+.project
+Servers/
